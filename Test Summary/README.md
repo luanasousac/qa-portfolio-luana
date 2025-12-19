@@ -1,9 +1,20 @@
 # Test Summary Report
 
-Total Test Cases: 5  
-Executed: 5  
-Passed: 4  
-Failed: 1  
+## Test Execution Overview
 
-Notes:
-One critical bug found in registration flow
+- Total Test Cases: 3  
+- Executed: 3  
+- Passed: 2  
+- Failed: 1  
+
+---
+
+## Defects Summary
+- Critical: 1
+- Major: 0
+- Minor: 0
+
+---
+
+## Conclusion
+The application presents a critical issue in the registration flow that must be fixed before production release.
