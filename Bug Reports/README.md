@@ -1,17 +1,33 @@
 # Bug Reports
 
-## Bug-001 — Registration button not working
+---
 
-Steps to Reproduce:
+## BUG-001 — Registration button not responding
+
+**Environment:** Web / Desktop / Chrome
+
+**Severity:** High  
+**Priority:** High  
+**Status:** Open
+
+---
+
+### Steps to Reproduce
 1. Open registration page
-2. Fill all fields with valid data
-3. Click Register
+2. Fill all required fields with valid data
+3. Click Register button
 
-Actual Result:
-Nothing happens
+---
 
-Expected Result:
-User redirected to dashboard
+### Actual Result
+No action occurs after clicking the button
 
-Status:
-Open
+---
+
+### Expected Result
+User should be registered and redirected to dashboard
+
+---
+
+### Notes
+Issue blocks user registration flow
