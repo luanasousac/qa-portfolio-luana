@@ -1,3 +1,7 @@
-# Checklists
+# Checkout and Payment Checklist
 
-Checklist for validating checkout and payment flow.
+- [x] Product can be added to cart
+- [x] Checkout page loads correctly
+- [x] Mandatory fields validation
+- [x] Invalid payment data is blocked
+- [ ] Error message displayed on payment failure
