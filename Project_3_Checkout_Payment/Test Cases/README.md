@@ -1,3 +1,13 @@
-# Test Cases
+# Test Cases – Checkout and Payment
 
-Manual test cases for checkout and payment scenarios.
+This section contains manual test cases designed to validate checkout and payment functionality.
+
+## Coverage
+Test cases include:
+- Valid checkout flow
+- Invalid payment data
+- Mandatory field validation
+- Error handling scenarios
+
+## Traceability
+Each test case is linked to one or more bug reports when defects are identified.
