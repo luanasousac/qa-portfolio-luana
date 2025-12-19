@@ -1,3 +1,8 @@
-# Checklists
+# Registration and Onboarding Checklist
 
-Checklist for validating registration and onboarding flow.
+- [x] Registration page loads correctly
+- [x] Mandatory fields validation
+- [x] Email format validation
+- [ ] Password complexity validation
+- [x] Onboarding flow navigation
+
