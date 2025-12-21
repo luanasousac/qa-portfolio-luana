@@ -1,53 +1,79 @@
-# QA Manual Portfolio — Luana Sousa Costa
+# QA Portfolio – Manual Testing
 
-This repository presents a **Manual QA portfolio** focused on software quality, test documentation and user experience validation.
+This repository contains my Quality Assurance (QA) portfolio, focused on manual testing and quality validation of web applications.
 
-The goal of this project is to demonstrate my ability to **plan, execute and document manual tests** following practices commonly used in real QA teams.
-
----
-
-## 📌 Project Scope
-
-The test artifacts in this repository simulate the quality validation of a **web application with user registration and login features**.
-
-The focus is on:
-- Functional validation
-- User experience
-- Error handling
-- Risk identification
+The projects were structured to simulate real-world QA activities in a corporate environment, covering test planning, execution, bug reporting, exploratory testing, and regression testing.
 
 ---
 
-## 🧪 Test Artifacts Included
+## About Me
 
-- Test Plan  
-- Test Cases  
-- Bug Reports  
-- Checklists  
-- Test Summary Report  
+I am a QA Analyst focused on manual testing, functional validation, and user experience quality.  
+I have experience validating digital products, web flows, forms, and user journeys, ensuring quality before delivery to end users.
 
-Each artifact was created based on real QA documentation standards.
+I bring a strong analytical mindset, attention to detail, and a business-oriented perspective to the QA process.  
+Currently, I am expanding my skills in test automation using Cypress.
 
 ---
 
-## 🛠 Tools & Techniques
+## Portfolio Structure
 
-- Manual Testing  
-- Functional Testing  
-- Exploratory Testing  
-- Test Case Design  
-- Bug Reporting  
-- User Experience Validation  
+The portfolio is organized into independent projects, each representing a core QA responsibility:
+
+### 📁 Project 1 – Functional Testing
+- Creation of manual test cases
+- Validation of core system flows
+- Positive and negative test scenarios
+- Focus on functional requirements
+
+### 📁 Project 2 – Bug Reporting
+- Structured bug documentation
+- Clear reproduction steps
+- Severity and priority classification
+- Focus on communication with development teams
+
+### 📁 Project 3 – Exploratory Testing
+- Exploratory test sessions
+- Risk-based testing approach
+- Focus on usability and unexpected behaviors
+- User-centered testing mindset
+
+### 📁 Project 4 – Regression Testing & Checklists
+- Regression test checklists
+- Validation after system changes
+- Prevention of critical flow breaks
+- Quality assurance before release
 
 ---
 
-## 🚀 About Me
+## Tools & Skills
 
-QA Manual professional with background in digital products and business processes, bringing strong analytical skills, attention to detail and user-focused thinking.
-
-Currently studying **test automation with Cypress**, aiming to evolve into automated testing.
+- Manual Testing
+- Functional Testing
+- Exploratory Testing
+- Regression Testing
+- Test Case Design
+- Bug Reporting
+- User Experience Validation
+- Web Applications (Desktop & Mobile)
+- GitHub for documentation and version control
+- Agile mindset (Scrum fundamentals)
 
 ---
 
-📌 *This repository is continuously evolving as part of my QA learning journey.*
+## Automation (In Progress)
 
+- Cypress – fundamentals
+- Basic test scenarios and E2E structure
+- Continuous learning and practice
+
+---
+
+## Contact
+
+📧 Email: luh.sousac@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/luanascostamkt  
+
+---
+
+> This portfolio represents my approach to quality, organization, and continuous improvement in software testing.
